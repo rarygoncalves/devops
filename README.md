@@ -1,11 +1,8 @@
-# DevOps ![GitHub License](https://img.shields.io/github/license/rarygoncalves/devops?label=License)
-
-![GitHub Release (latest SemVer Stable Release)](https://img.shields.io/github/v/release/rarygoncalves/devops?label=Stable%20Release&sort=semver)
-![GitHub Release (latest SemVer Latest Release)](https://img.shields.io/github/v/release/rarygoncalves/devops?include_prereleases&label=Latest%20Release&sort=semver)
+# DevOps Learning ![GitHub License](https://img.shields.io/github/license/rarygoncalves/devops-learning?label=License) ![GitHub Release (latest SemVer Stable Release)](https://img.shields.io/github/v/release/rarygoncalves/devops-learning?label=Stable%20Release&sort=semver) ![GitHub Release (latest SemVer Latest Release)](https://img.shields.io/github/v/release/rarygoncalves/devops-learning?include_prereleases&label=Latest%20Release&sort=semver)
 
 [![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Rary%20Gonçalves&logo=linkedin&style=social)](https://www.linkedin.com/in/rarygoncalves/)
 
-## Continuous Integration ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/rarygoncalves/devops/Django?label=Integration&logo=django)
+## Continuous Integration ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/rarygoncalves/devops-learning/Django?label=Integration&logo=django)
 
 Para a integração contínua, as atividades de `build` e `test` são realizadas com um workflow baseado na linguagem Python e o framework Django, onde o script é executado na própria plataforma de forma nativa via GitHub Actions, utilizando o template para Django Project fornecido oficialmente.
 
@@ -135,6 +132,6 @@ Cleaning up orphan processes
 > Assumindo que todas as etapas foram concluídas com sucesso de execução, o workflow de CI é finalizado de forma positiva e a integração é validada.
 
 
-## Continuous Delivery ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/rarygoncalves/devops/Heroku?label=Delivery&logo=heroku)
+## Continuous Delivery ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/rarygoncalves/devops-learning/Heroku?label=Delivery&logo=heroku)
 
 > (em breve)
