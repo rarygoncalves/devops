@@ -1,11 +1,3 @@
-~~~python
-print('Hello World!')
-~~~
-
-~~~javascript
-prompt('Hello World!');
-~~~
-
 # DevOps ![GitHub License](https://img.shields.io/github/license/rarygoncalves/devops?label=License)
 
 ![GitHub Release (latest SemVer Stable Release)](https://img.shields.io/github/v/release/rarygoncalves/devops?label=Stable%20Release&sort=semver)
