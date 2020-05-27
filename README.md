@@ -1,4 +1,4 @@
-# DevOps Learning ![GitHub License](https://img.shields.io/github/license/rarygoncalves/devops-learning?label=License) ![GitHub Release (latest SemVer Stable Release)](https://img.shields.io/github/v/release/rarygoncalves/devops-learning?label=Stable%20Release&sort=semver) ![GitHub Release (latest SemVer Latest Release)](https://img.shields.io/github/v/release/rarygoncalves/devops-learning?include_prereleases&label=Latest%20Release&sort=semver)
+# DevOps Learning ![GitHub License](https://img.shields.io/github/license/rarygoncalves/devops-learning?&label=License) ![GitHub Release (latest SemVer Stable Release)](https://img.shields.io/github/v/release/rarygoncalves/devops-learning?label=Stable%20Release&sort=semver) ![GitHub Release (latest SemVer Latest Release)](https://img.shields.io/github/v/release/rarygoncalves/devops-learning?include_prereleases&label=Latest%20Release&sort=semver)
 
 [![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Rary%20Gonçalves&logo=linkedin&style=social)](https://www.linkedin.com/in/rarygoncalves/)
 
