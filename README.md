@@ -1,6 +1,6 @@
 # DevOps Learning ![GitHub License](https://img.shields.io/github/license/rarygoncalves/devops-learning?label=License) ![GitHub Release (latest SemVer Stable Release)](https://img.shields.io/github/v/release/rarygoncalves/devops-learning?label=Stable%20Release&sort=semver) ![GitHub Release (latest SemVer Latest Release)](https://img.shields.io/github/v/release/rarygoncalves/devops-learning?include_prereleases&label=Latest%20Release&sort=semver)
 
-[![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Rary%20Gonçalves&logo=linkedin&style=social)](https://www.linkedin.com/in/rarygoncalves/)
+[![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=Rary%20Gonçalves&logo=linkedin&style=social)](https://www.linkedin.com/in/rarygc/)
 
 ## Continuous Integration ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/rarygoncalves/devops-learning/Django?label=Integration&logo=django)
 
